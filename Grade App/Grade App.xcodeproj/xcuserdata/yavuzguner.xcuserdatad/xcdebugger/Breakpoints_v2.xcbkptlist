@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "412A28A4-79FF-4EC1-916A-A11D0B3FB482"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "881368F6-447C-42B2-A1BE-A8BC18DE8036"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Grade App/GradeCellTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "GradeCellTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "881368F6-447C-42B2-A1BE-A8BC18DE8036 - b25024d81d5c4078"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Grade_App.GradeCellTableViewCell.courseNameLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Grade App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yavuzguner/Desktop/Software%20/Kas%C4%B1m%20Adlan/Projects/Grade%20App/Grade%20App/GradeCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "881368F6-447C-42B2-A1BE-A8BC18DE8036 - 5b2430308432e46c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Grade_App.GradeCellTableViewCell.courseNameLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Grade App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yavuzguner/Desktop/Software%20/Kas%C4%B1m%20Adlan/Projects/Grade%20App/Grade%20App/GradeCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "881368F6-447C-42B2-A1BE-A8BC18DE8036 - f08be9588ebe197b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Grade_App.GradeCellTableViewCell.courseNameLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Grade App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yavuzguner/Desktop/Software%20/Kas%C4%B1m%20Adlan/Projects/Grade%20App/Grade%20App/GradeCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "881368F6-447C-42B2-A1BE-A8BC18DE8036 - 5a3d6f6d27855d70"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Grade_App.GradeCellTableViewCell.courseNameLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Grade App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yavuzguner/Desktop/Software%20/Kas%C4%B1m%20Adlan/Projects/Grade%20App/Grade%20App/GradeCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "881368F6-447C-42B2-A1BE-A8BC18DE8036 - da52ba7291811a41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Grade_App.GradeCellTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; Grade_App.GradeCellTableViewCell"
+                  moduleName = "Grade App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yavuzguner/Desktop/Software%20/Kas%C4%B1m%20Adlan/Projects/Grade%20App/Grade%20App/GradeCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "881368F6-447C-42B2-A1BE-A8BC18DE8036 - ccecb9ad94c66e87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Grade_App.GradeCellTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Grade_App.GradeCellTableViewCell&gt;"
+                  moduleName = "Grade App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yavuzguner/Desktop/Software%20/Kas%C4%B1m%20Adlan/Projects/Grade%20App/Grade%20App/GradeCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
